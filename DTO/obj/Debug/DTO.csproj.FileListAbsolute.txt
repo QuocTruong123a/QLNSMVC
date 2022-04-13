@@ -1,0 +1,12 @@
+C:\Users\84919\source\repos\QLLNS\DTO\bin\Debug\DTO.dll
+C:\Users\84919\source\repos\QLLNS\DTO\bin\Debug\DTO.pdb
+C:\Users\84919\source\repos\QLLNS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\84919\source\repos\QLLNS\DTO\obj\Debug\DTO.dll
+C:\Users\84919\source\repos\QLLNS\DTO\obj\Debug\DTO.pdb
+C:\Users\84919\source\repos\QLLNS\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\84919\Desktop\QLLNS\DTO\bin\Debug\DTO.dll
+C:\Users\84919\Desktop\QLLNS\DTO\bin\Debug\DTO.pdb
+C:\Users\84919\Desktop\QLLNS\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\84919\Desktop\QLLNS\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\84919\Desktop\QLLNS\DTO\obj\Debug\DTO.dll
+C:\Users\84919\Desktop\QLLNS\DTO\obj\Debug\DTO.pdb
